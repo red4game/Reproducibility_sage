@@ -6,3 +6,7 @@ You can verify the float-point error with :
 
 Or you can verify the fix by adding an overflow possible on precision space
 `sage success.sage`
+
+
+There is also another exercise : 
+`sage bank.sage`
