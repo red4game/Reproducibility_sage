@@ -1,6 +1,7 @@
 RF = RealField(1000000)
 RFM = RealField(100)
 bank = RF(e)
+
 years = 50
 for i in range(1,years+1):
     bank-=RF(1)
